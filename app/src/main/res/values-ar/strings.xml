@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name">E Store </string>
+
+    <string name="refresh">تحديث</string>
+    <string name="price_with_currency">ج%.2f</string>
+    <string name="price_with_currency_string">ج%s</string>
+    <string name="total_price_with_currency_string">الإجمالي: ج%s</string>
+    <string name="lbl_view_cart">عرض السلة</string>
+    <string name="cart_info_bar_data">%d عناصر | ج%s</string>
+    <string name="clear_cart">محو السلة</string>
+    <string name="title_activity_transactions">المعاملات</string>
+
+    <string name = "hello_blank_fragment"> مرحبًا بالجزء الفارغ </string>
+    <string name = "btn_checkout">(%s)الدفع </string>
+    <string name = "lbl_item_price_quantity">٪s x ٪d </string>
+    <string name = "lbl_your_cart"> سلة التسوق الخاصة بك </string>
+    <string name = "title_activity_paytm_activity"> حالة الطلب </string>
+    <string name = "hint_email"> البريد الإلكتروني </string>
+    <string name = "hint_password"> كلمة المرور </string>
+    <string name = "login"> تسجيل الدخول </string>
+    <string name = "msg_enter_credentials"> أدخل البريد الإلكتروني واسم المستخدم! </string>
+    <string name = "logout"> تسجيل الخروج </string>
+    <string name = "hint_name"> الاسم الكامل </string>
+    <string name = "register"> التسجيل </string>
+    <string name = "msg_fill_the_form"> يرجى ملء النموذج! </string>
+    <string name = "lbl_create_account"> ألا تمتلك حسابًا؟ قم بالتسجيل هنا. </string>
+    <string name = "lbl_existing_account"> هل لديك حساب بالفعل؟ قم بتسجيل الدخول هنا </string>
+    <string name = "msg_unknown"> حدث خطأ غير معروف! حاول مرة اخرى. تحقق من LogCat الخاص بـ Android Studio للحصول على تقرير تفصيلي عن الخطأ. </string>
+    <string name = "error"> خطأ </string>
+    <string name = "msg_preparing_order"> تحضير طلبك </string>
+    <string name = "msg_fetching_checksum"> الحصول على قيمة المجموع الاختباري من الخادم </string>
+    <string name = "msg_redirecting_to_paytm"> إعادة التوجيه إلى بوابة PayTM </string>
+    <string name = "msg_verifying_status"> التحقق من حالة المعاملة على الخادم </string>
+    <string name = "msg_order_placed_successfully"> تم تقديم طلبك بنجاح! </string>
+    <string name = "thank_you"> شكرًا </string>
+    <string name = "btn_check_order"> أوامر التحقق </string>
+    <string name = "title_preparing_order"> تحضير الطلب </string>
+    <string name = "msg_order_placed_failed"> تعذر تقديم الطلب. Plase contact support. </string>
+    <string name = "order_failed"> فشل الطلب </string>
+    <string name = "activity_title_orders"> أوامري </string>
+    <string name = "order_placed"> تم تقديم الطلب </string>
+    <string name = "order_id"> معرف الطلب #٪d </string>
+    <string name = "transaction_failed"> فشلت المعاملة </string>
+    <string name = "transaction"> NO DATA </string>
+
+</resources>
